@@ -1,0 +1,2 @@
+//()=>{} myprogressbar is added to eventlistener
+// element.addEventListener(event, function, options);
